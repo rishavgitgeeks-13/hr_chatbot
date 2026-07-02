@@ -6,8 +6,8 @@ import uuid
 # Page Configuration
 # ----------------------------
 st.set_page_config(
-    page_title="HR Policy Assistant",
-    page_icon="🤖",
+    page_title="GCB HR Connect",
+    page_icon="⚡",
     layout="wide"
 )
 
@@ -23,8 +23,8 @@ if "messages" not in st.session_state:
 # ----------------------------
 # Header
 # ----------------------------
-st.title("🤖 HR Policy Assistant")
-st.caption("Ask any HR policy related question")
+st.title("GCB HR Connect")
+st.caption("Ask me anything about your workplace...")
 
 # ----------------------------
 # Display Chat History
