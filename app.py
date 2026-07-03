@@ -24,7 +24,7 @@ if "messages" not in st.session_state:
 # Header
 # ----------------------------
 st.title("GCB HR Connect")
-st.caption("Ask me anything about your workplace...")
+st.caption("Ask any HR policy related question")
 
 # ----------------------------
 # Display Chat History
