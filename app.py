@@ -36,7 +36,7 @@ for message in st.session_state.messages:
 # ----------------------------
 # User Input
 # ----------------------------
-prompt = st.chat_input("Ask your HR question...")
+prompt = st.chat_input("Ask me anything about your workplace...")
 
 if prompt:
 
